@@ -16,3 +16,9 @@
 
 [8. 查找数组中重复的数字](https://github.com/juqiPeng/algorithm-code/tree/master/findRepeatNumber)
 
+[9. 统计排序数组中某数字的出现次数](https://github.com/juqiPeng/algorithm-code/tree/master/statisticsInSortedArray)
+
+[10. 查找0～n-1中缺失的数字](https://github.com/juqiPeng/algorithm-code/tree/master/missingNumber)
+
+
+
