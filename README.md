@@ -24,6 +24,4 @@
 
 [12. 旋转数组的最小数字](https://github.com/juqiPeng/algorithm-code/tree/master/minRotatedArrays)
 
-
-
-
+[12. 第一个只出现一次的字符](https://github.com/juqiPeng/algorithm-code/tree/master/firstUniqChar)
