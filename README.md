@@ -20,5 +20,8 @@
 
 [10. 查找0～n-1中缺失的数字](https://github.com/juqiPeng/algorithm-code/tree/master/missingNumber)
 
+[11. 二维数组中的查找](https://github.com/juqiPeng/algorithm-code/tree/master/findNumberIn2DArray)
+
+
 
 
