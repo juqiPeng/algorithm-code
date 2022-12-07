@@ -22,6 +22,8 @@
 
 [11. 二维数组中的查找](https://github.com/juqiPeng/algorithm-code/tree/master/findNumberIn2DArray)
 
+[12. 旋转数组的最小数字](https://github.com/juqiPeng/algorithm-code/tree/master/minRotatedArrays)
+
 
 
 
